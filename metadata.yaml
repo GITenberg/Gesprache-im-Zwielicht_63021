@@ -1,0 +1,23 @@
+_repo: Gesprache-im-Zwielicht_63021
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Delmar, Karin
+    gutenberg_agent_id: '52232'
+    url: http://www.gutenberg.org/2009/agents/52232
+  - agent_name: Robinson, Terese
+    gutenberg_agent_id: '52233'
+    url: http://www.gutenberg.org/2009/agents/52233
+description: ''
+gutenberg_issued: '2020-08-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63021'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Gespräche im Zwielicht
+url: http://www.gutenberg.org/ebooks/63021
